@@ -1,6 +1,7 @@
 // Java Program to rename a file
 import java.io.File;
 public class GFG {
+	
 	public static void main(String[] args)
 	{
 		// Create an object of the File class
